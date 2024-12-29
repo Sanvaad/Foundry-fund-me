@@ -12,27 +12,6 @@ A Solidity-based decentralized funding contract that utilizes Chainlink price fe
 
 ---
 
-## Project Structure
-
-```plaintext
-.
-├── contracts
-│   ├── FundMe.sol              # Main funding contract
-│   ├── PriceConverter.sol      # Library for ETH to USD conversion
-│   └── MockV3Aggregator.sol    # Mock Chainlink price feed for testing
-├── script
-│   ├── DeployFundMe.s.sol      # Deployment script for FundMe contract
-│   ├── HelperConfig.s.sol      # Configuration for price feed and network-specific data
-│   ├── Interactions.s.sol      # Scripts for interacting with FundMe
-├── test
-│   ├── InteractionsTest.sol    # Test suite for user interaction
-│   └── FundMeTest.sol          # Unit tests for FundMe contract
-├── README.md                   # Project documentation
-└── .foundry.toml               # Foundry configuration
-```
-
----
-
 ## Getting Started
 
 ### Prerequisites
