@@ -107,7 +107,3 @@ Feel free to reach out:
 
 - **Email:** houseofsanvaad@gmail.com
 - **GitHub:** [sanvaad](https://github.com/sanvaad)
-
-```
-
-Replace placeholders like `<YOUR_RPC_URL>`, `<YOUR_PRIVATE_KEY>`, and contact information with your actual details. Let me know if you’d like additional customization!
